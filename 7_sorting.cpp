@@ -80,7 +80,7 @@ int main()
         }
     cout << endl << endl;
 
-    //diplay how many times it sorted for bubble sort
+    //diplay how many times it sorted for both methods
     cout << "Bubble sort: " << pass1 << " times.\n";
     cout << "Selection sort: " << pass2 << " times.\n";
     cout << endl;
